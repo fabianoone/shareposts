@@ -12,15 +12,15 @@
  * @link     https://github.com/fabianoone
  */
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', 'root');
+define('DB_USER', '_YOUR_DBUSER_');
+define('DB_PASS', '_YOUR_PASSWORD_');
 define('DB_NAME', 'shareposts');
 
 // App Root
 define('APPROOT', dirname(dirname(__FILE__)));
 
 // URL Root
-define('URLROOT', 'http://localhost/shareposts');
+define('URLROOT', '_APP_URL_');
 
 // App Name
 define('APPNAME', 'SharePosts');
