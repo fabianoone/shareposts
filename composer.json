@@ -1,4 +1,7 @@
 {
+    "name": "shareposts/shareposts",
+    "description": "A simple, powerfull application to share posts.",
+    "license": "MIT",
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.7"
     }
